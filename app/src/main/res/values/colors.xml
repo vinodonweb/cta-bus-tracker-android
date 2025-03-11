@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="header">#009900</color>
+    <color name="searchBox">#C8E6CA</color>
+    <color name="routeEntryBg">#4CAF50</color>
+    <color name="routeAndPreBg">#1B5E20</color>
+</resources>
